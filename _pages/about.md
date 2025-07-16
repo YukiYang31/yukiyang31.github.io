@@ -17,7 +17,7 @@ In my free time, I enjoy traveling and exploring new places. I especially love r
 
 News!
 =====
-:evergreen_tree: **June 2025:** I attended OPLSS in Eugene! I learned a lot and would recommended if you want to learn fundamental PL knowledge and meet cool people.
+:evergreen_tree: **June 2025:** I attended OPLSS in Eugene! I learned a lot and would recommend it to anyone who are looking to gain fundamental PL knowledge and meet cool people.
 
 :mortar_board: **May 2025:** I graduated from Harvey Mudd College with High Distinction, Honors in Mathematics, and Honors in Computer Science!
 
