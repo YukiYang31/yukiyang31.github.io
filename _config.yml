@@ -22,7 +22,7 @@ repository               : "YukiYang31/yukiyang31.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.jpeg"
   name             : "Yihan (Yuki) Yang"
   pronouns         : "she/her"  
   bio              : 

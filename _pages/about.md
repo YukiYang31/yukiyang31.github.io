@@ -23,13 +23,13 @@ News!
 
 ➡️ **March 2025:** I am happy to announce that I will be going to University of Washington to pursue a PhD degree in the fall!
 
-🎤 **Jan 2025:** Attending POPL2025 at Denver and gave a talk on "Toward Verified Linear Algebra Programs Through Equivalence" at CoqPL!
+🎤 **Jan 2025:** Attending POPL2025 at Denver and giving a talk on "Towards Verified Linear Algebra Programs Through Equivalence" at CoqPL!
 
-💰 **Dec 2024:** I received travel grant from Sigplan PAC to support me for traveling to Denver. Thank you Sigplan!
+💰 **Dec 2024:** I received a SIGPLAN PAC travel grant to support my trip to Denver. Thank you Sigplan!
 
 ✈️ **Oct 2024:** Attending PLMW @ Splash for the first time! Had a very good experience!
 
-🎤 **Sep 2024:** Presenting "Interprocedural Path Complexity Analysis" at ISSTA2024, Vienna and worked as a student volunteer. 
+🎤 **Sep 2024:** First time in Europe! I will be presenting "Interprocedural Path Complexity Analysis" at ISSTA2024, Vienna. I am working as a student volunteer as well! 
 
 💰 **May 2024:** Received funding from [ACM-W](https://women.acm.org/scholars/acm-w-scholars/yihan-yang/) to support travel to Vienna. Thank you ACM-W!
 
