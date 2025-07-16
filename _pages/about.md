@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am glad to find you here! I am Yuki Yang, an incoming PhD student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I will be part of the Porgramming Language and Software Engineering ([PLSE](https://uwplse.org/)) group, advised by Professor [Mike Ernst](https://homes.cs.washington.edu/~mernst/). 
 
-I am interested in anything that involves both Algebra and software engineering, which I found PL as one of the perfect field. Recently, I've been fascinated by Category Theory and wish to explore it further!
+I am interested in anything that combines algebra and software engineering, and I’ve found programming languages to be a perfect fit. Recently, I've been fascinated by category theory and hope to explore it further!
 
 I completed my undergrad at Harvey Mudd College, majoring in Joint Computer Science and Math, with a Economics concentration. During my time at Mudd, I was part of [Prof Lucas Bang](https://www.cs.hmc.edu/~bang/index.html)'s ALPACA lab working on Asymptotic Path Complexity (APC). Feel free to ask me anything about APC!  During the summer of 2024, I was interning at Lawrence Livermore National Lab (LLNL) working on formalizing linear algebra theorems in Rocq. 
 
