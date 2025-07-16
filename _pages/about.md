@@ -29,7 +29,7 @@ News!
 
 ✈️ **Oct 2024:** Attending PLMW @ Splash for the first time! Had a very good experience!
 
-🎤 **Sep 2024:** Presenting "Interprocedural Path Complexity Analysis" at ISSTA2024, Vienna. 
+🎤 **Sep 2024:** Presenting "Interprocedural Path Complexity Analysis" at ISSTA2024, Vienna and worked as a student volunteer. 
 
 💰 **May 2024:** Received funding from [ACM-W](https://women.acm.org/scholars/acm-w-scholars/yihan-yang/) to support travel to Vienna. Thank you ACM-W!
 
