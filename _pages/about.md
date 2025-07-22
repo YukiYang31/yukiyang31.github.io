@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am glad to find you here! I am Yuki Yang, an incoming PhD student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I will be part of the Porgramming Language and Software Engineering ([PLSE](https://uwplse.org/)) group, advised by Professor [Mike Ernst](https://homes.cs.washington.edu/~mernst/). 
+Hi, I am glad to find you here! I am Yuki Yang, an incoming PhD student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I will be part of the Programming Language and Software Engineering ([PLSE](https://uwplse.org/)) group, advised by Professor [Mike Ernst](https://homes.cs.washington.edu/~mernst/). 
 
 I am interested in anything that combines algebra and software engineering, and I’ve found programming languages to be a perfect fit. Recently, I've been fascinated by category theory and hope to explore it further!
 
