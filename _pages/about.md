@@ -36,3 +36,7 @@ News!
 🎉 **Mar 2024:** Our paper "Interprocedural Path Complexity Analysis" is accepted at ISSTA2024! So excited that our hard work paid off. Go Bang Lab!!
 
 ✈️ **Jan 2024:** Attending Joint Mathematics Meeting (JMM) @ San Francisco. 
+
+
+
+Last Update: July 2025
