@@ -13,7 +13,7 @@ See Full CV here: [cv](/files/Public_CV.pdf)
 
 Education
 ======
-* (incoming) Ph.D in Computer Science, University of Washington 
+* First-year Ph.D in Computer Science, University of Washington 
 * B.S. in Joint Math and Computer Science, Harvey Mudd College, 2025
   - Graduated with High Distinction, Honors in Mathematics, and Honors in Computer Science
 
