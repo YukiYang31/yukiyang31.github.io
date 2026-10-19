@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am glad to find you here! I am Yuki Yang, a first-year PhD student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am part of the Programming Language and Software Engineering ([PLSE](https://uwplse.org/)) group, advised by Professor [Mike Ernst](https://homes.cs.washington.edu/~mernst/) working on compile-time verification of Java program to prevent runtime errors. 
+Hi, I am glad to find you here! I am Yuki Yang, a second-year PhD student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. I am part of the Programming Language and Software Engineering ([PLSE](https://uwplse.org/)) group, advised by Professor [Mike Ernst](https://homes.cs.washington.edu/~mernst/) working on compile-time verification of Java program to prevent runtime errors. 
 
 I am interested in anything that combines algebra and software engineering, and I’ve found programming languages to be a perfect fit. Recently, I've been fascinated by category theory and hope to explore it further!
 
@@ -17,6 +17,10 @@ In my free time, I enjoy traveling and exploring new places. I especially love r
 
 News!
 =====
+✈️ **Oct 2026:** Attending OOPLSS/ISSTA @ Oakland.
+
+🌴 **Jun 2026:** Start my internship with AWS Automated Reasoning group in NYC. 
+
 📚 **Sep 2025:** New chapter starts in Seattle!
 
 :evergreen_tree: **June 2025:** I attended OPLSS in Eugene(!), which I learned a lot of interesting PL topics and would recommend it to anyone who are looking to learn more about PL and meet cool people.
@@ -41,4 +45,4 @@ News!
 
 
 
-Last Update: Nov 2025
+Last Update: Oct 2026

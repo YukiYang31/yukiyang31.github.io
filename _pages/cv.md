@@ -13,7 +13,7 @@ See Full CV here: [cv](/files/Public_CV.pdf)
 
 Education
 ======
-* First-year Ph.D in Computer Science, University of Washington 
+* Second-year Ph.D in Computer Science, University of Washington 
 * B.S. in Joint Math and Computer Science, Harvey Mudd College, 2025
   - Graduated with High Distinction, Honors in Mathematics, and Honors in Computer Science
 
@@ -27,7 +27,7 @@ Skills
 ======
 * **Programming:** Python, C++, R, Racket, Java, Haskell, Rocq, Prolog, SQL, Javascript/HTML/CSS, React
 * **Tools:** GitHub, Mathematica, AMPL with Gurobi, Stata, Solidworks, ArcGIS, HMC machine shop certified
-* **Language:** English, Mandarin (proficient)
+* **Language:** English, Mandarin
 
 
 Publications
@@ -39,14 +39,15 @@ Publications
 Tutoring/Teaching
 ======
 Computer Science: 
-* Computability and Logic (HMC), *Fall 2023* and *Spring 2024*
-* Algorithms (HMC), *Fall 2024* and *Spring 2025*
+* CSE403 Software Engineering (UW), *Fall 2026*
+* CSCI081 Computability and Logic (HMC), *Fall 2023* and *Spring 2024*
+* CSCI140 Algorithms (HMC), *Fall 2024* and *Spring 2025*
 
 Math:
-* Single and Multivariable Calculus (HMC), *Fall 2022*
-* Real Analysis (HMC), *Spring 2023*
-* Discrete Math (HMC), *Fall 2023*
-* Abstract Algebra (HMC), *Spring 2024*
-* Number Theory (HMC), *Spring 2025*
+* MATH019 Single and Multivariable Calculus (HMC), *Fall 2022*
+* MATH131 Real Analysis (HMC), *Spring 2023*
+* MATH052 Discrete Math (HMC), *Fall 2023*
+* MATH171 Abstract Algebra (HMC), *Spring 2024*
+* MATH175 Number Theory (HMC), *Spring 2025*
   
 
